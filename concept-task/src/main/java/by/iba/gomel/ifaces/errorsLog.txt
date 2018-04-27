@@ -1,0 +1,4 @@
+I omitted to implement the method  -= public boolean isWagging() =- in class Terrier and got the new error log in Maven console. 
+
+[ERROR] Failed to execute goal org.codehaus.mojo:exec-maven-plugin:1.4.0:java (default-cli) on project concept-task: An exception occured while executing the Java class. null: InvocationTargetException: Unresolved compilation problem:
+[ERROR] The type Terrier must implement the inherited abstract method IDog.isWagging()
